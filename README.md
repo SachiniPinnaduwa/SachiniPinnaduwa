@@ -20,5 +20,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinipinnaduwa&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinipinnaduwa&theme=radical)](https://git.io/streak-stats) 
+
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sachinipinnaduwa&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinipinnaduwa&theme=radical)](https://git.io/streak-stats) 
