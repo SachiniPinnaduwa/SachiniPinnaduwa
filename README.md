@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> , I'm Sachini Pinnaduwa</h1>
-<h3 align="center">I’m an IT undergraduate in University of Moratuwa, Sri Lanka</h3>
+<h3 align="center">Fresh graduate in Information Technology from the University of Moratuwa, Sri Lanka, driven by a passion for developing innovative and efficient software solutions</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinipinnaduwa&label=Profile%20views&color=0e75b6&style=flat" alt="sachinipinnaduwa" /> </p>
 <p align="left">
