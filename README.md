@@ -20,8 +20,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinipinnaduwa&theme=radical)](https://git.io/streak-stats) 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SachiniPinnaduwa&theme=radical)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sachini%20Pinnaduwa&theme=radical)](https://git.io/streak-stats)
 
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sachinipinnaduwa&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SachiniPinnaduwa&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 
 
