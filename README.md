@@ -1,22 +1,37 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Sachini Pinnaduwa</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />
+</div>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm <strong><em>Sachini Pinnaduwa</em></strong>
+</h1>
+
 <h3 align="center">Fresh graduate in Information Technology from the University of Moratuwa, Sri Lanka, driven by a passion for developing innovative and efficient software solutions.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sachinipinnaduwa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
-## 🚀 About Me
-- 🎓 **Fresh graduate** in Information Technology from the **University of Moratuwa, Sri Lanka**.
-- 💻 **Full Stack Developer** passionate about **Angular, .NET, and MERN**.
-- ⚡ **Interested in** Full Stack Development, DevOps, Cloud Computing, and Microservices Architecture.
-- 🌱 **Expanding My Skills** in Full Stack Development, Cloud Computing, and Scalable Web Applications.
-- 🔍 **Looking for** Software Engineer roles.
-- 🎯 **Goal**: To become a **Talented Full-stack Developer**.
-- 🌿 **Hobby**: Indoor gardening 🪴.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<h2>🚀 About Me</h2>
+
+<p align="left">
+  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="300">
+</p>
+
+- 🎓 <strong>Fresh graduate</strong> in Information Technology from the <strong>University of Moratuwa, Sri Lanka</strong>.  
+- 💻 <strong>Full Stack Developer</strong> passionate about <strong>Angular, .NET, and MERN</strong>.  
+- ⚡ <strong>Interested in</strong> Full Stack Development, DevOps, Cloud Computing, and Microservices Architecture.  
+- 🌱 <strong>Expanding My Skills</strong> in Full Stack Development, Cloud Computing, and Scalable Web Applications.  
+- 🔍 <strong>Looking for</strong> Software Engineer roles.  
+- 🎯 <strong>Goal</strong>: To become a <strong>Talented Full-stack Developer</strong>.  
+- 🌿 <strong>Hobby</strong>: Indoor gardening 🪴.
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 🛠️ Languages & Tools
 
@@ -63,7 +78,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -78,7 +93,7 @@
   </a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 📬 Connect With Me:
 
@@ -88,6 +103,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
 
 
